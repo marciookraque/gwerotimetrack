@@ -1,4 +1,4 @@
-# GweruTimeTrack
+# GweroTimeTrack
 
 Personal time tracking and study management application.
 
